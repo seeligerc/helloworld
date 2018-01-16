@@ -1,2 +1,2 @@
 # helloworld
-Hey there!
+This is the readme file for the hello world exercise.
